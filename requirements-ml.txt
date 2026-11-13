@@ -1,0 +1,2 @@
+# Optional: neural multilingual embeddings (EMBEDDING_BACKEND=fastembed)
+fastembed>=0.4
